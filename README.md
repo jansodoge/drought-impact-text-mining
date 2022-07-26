@@ -8,3 +8,17 @@ This repository is structured as follows:
 * The folder final_dataset holds the resulting dataset of drought impacts. See description and dataset structure below.
 
 
+
+
+## Dataset structure: Drought impacts in Germany between 2000-2020
+
+The drought impact text mining was applied to, and resulted in a dataset of drought impacts in Germany between 2000-2020. The dataset can be found in the __final_dataset__ folder and is structured as follows as a tabular dataset:
+  *  "nuts_id": using the NUT classification system to locate the drought impact   
+  *  "statistical_unit": in addition to the NUTS identifier, this variable indicates the NUTS-level (1/2/3)   
+  *  "type_of_class": categorizes the typ of drought impact. Keywords are used to indicate impact class, we provide more detailed definitions below.
+  *   "month_date" and "year_date": provide temporal identifiers for the particular drought impact and location
+  *   "MIS" (media impact statement): provides the sum of all drought impact statements for a particular location (nuts_id) and time (month_date and year_date). Can be used as a measure of prevalence/significance of the drought impact
+ 
+ 
+ 
+ 
