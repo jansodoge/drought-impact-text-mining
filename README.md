@@ -22,3 +22,4 @@ The drought impact text mining was applied to, and resulted in a dataset of drou
  
  
  
+![alt text](https://github.com/jansodoge/drought-impact-text-mining/blob/main/figures/tmp_impact_class_overview.png)
