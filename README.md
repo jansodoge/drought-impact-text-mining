@@ -19,6 +19,9 @@ The drought impact text mining was applied to, and resulted in a dataset of drou
   *   "month_date" and "year_date": provide temporal identifiers for the particular drought impact and location
   *   "MIS" (media impact statement): provides the sum of all drought impact statements for a particular location (nuts_id) and time (month_date and year_date). Can be used as a measure of prevalence/significance of the drought impact
  
+ For technical details see an [earlier publication](https://www.researchgate.net/publication/360800015_Automatized_Drought_Impact_Detection_Using_Natural_Language_Processing?_sg%5B0%5D=8RFnqslBDSZ10bDUmoZPWykBA9khIGGtTqevudh8UigKtV8RKjw2x5SpfrtEJ5ZBPkUdc-v_MbZDa-fQdhmr7PuKVwydpIl6C2JzcLzV.p1izrHFCU59sWdhOcfXxMY8IXXHLpfpAsYriNw3PUV7jLXHMUn18SFrYvKszpP7aFz6POYTw6Q5vy7O_KxC4mA)
+ 
+
  
  Here, see an overview of the classified drought impacts.
  
