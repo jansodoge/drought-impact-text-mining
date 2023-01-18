@@ -4,7 +4,7 @@ This repository contains code and data on our project on assessing socio-economi
 
 The code & data are part of a pre-print currently under review ([see here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4178096)).
 
-
+Also, we have published and are still working on an [interactive data exploration tool](https://jsodoge.shinyapps.io/drought_impact_monitor/).
 
 This repository is structured as follows: 
 * The code is organized within an R targets pipeline (https://books.ropensci.org/targets/) to ensure reproducibility. It divides the process of creating a text corpus, extracting locations and impacts into different steps (i.e. functions) which are ran subsequently. The targets pipeline is defined in _targets_ file in the main directory. Functions are defined in the R folder. 
