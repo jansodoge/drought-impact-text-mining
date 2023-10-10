@@ -7,7 +7,8 @@
 
 # Drought impact text-mining and drought impact statements dataset
 
-IMPORTANT: We are currently working on a more generalized version of the code that can easily be used for other case-studies etc. [22.09.2023]. If you want to use this code, please get in touch with jan.sodoge[at]ufz.de for generalized code options.
+IMPORTANT: We are currently working on a more generalized version of the code that can easily be used for other case-studies etc. [22.09.2023]. See [see here](https://github.com/jansodoge/generalised-natural-hazards-impact-mining/tree/main)
+
 
 
 This repository contains code and data on our project on assessing socio-economic drought impacts from newspaper articles for Germany between 2000-2021. The code is structured in an R targets pipeline. The dataset is provided as .csv file and can be cited with a DOI. For details on both, read below. 
